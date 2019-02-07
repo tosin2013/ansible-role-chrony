@@ -39,8 +39,8 @@ None
   roles:
     - role: ericsysmin.chrony
       chrony_config_server:
-				- 0.pool.ntp.org
-				- 2.pool.ntp.org
+        - 0.pool.ntp.org
+        - 2.pool.ntp.org
 ```
 
 ## License
